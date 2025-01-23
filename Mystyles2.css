@@ -37,6 +37,8 @@ body
 	overflow: hidden;
 	margin:  auto;
     text-align: center;
+    background-color: gray;
+
 }
 .t1 .t2 .t3
 {
@@ -47,6 +49,8 @@ body
     border: 3px solid black;
 	margin: 20px 50px ;
     border-style: solid;
+    background-color:chocolate
+
 }
 .t1 .t2 .t3 .t4
 {
@@ -57,22 +61,9 @@ body
     border: 3px solid black;
 	padding: 20px;
 	margin: 30px 40px;
+    background-color:green
+
+
 }
 
-.t2:hover
-{
-background-color: gray;
-}
-.t3:hover
-{
-background-color: rgb(28, 224, 28);
-}
-.t3:hover
-{
-background-color:chocolate
-}
-.t4:hover
-{
-background-color:green
-}
 
